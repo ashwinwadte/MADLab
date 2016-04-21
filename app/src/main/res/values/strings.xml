@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MADLab3</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_file_handling">FileHandling</string>
+    <string name="title_activity_call_log">CallLog</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_sqlite_database">SQLiteDatabase</string>
+    <string name="title_activity_httpdemo">HTTPDemo</string>
+    <string name="title_activity_tcpsocket">TCPSocket</string>
+    <string name="title_activity_sqlite_db_demo">SQLiteDbDemo</string>
+    <string name="title_activity_db_menu">DbMenu</string>
+    <string name="title_activity_db_add_records">DbAddRecords</string>
+    <string name="title_activity_main_activity2">MainActivity2Activity</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_camera">CameraActivity</string>
+</resources>
